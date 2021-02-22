@@ -1,8 +1,8 @@
-# Tuto Consume API
+# Tuto Consume API with Symfony 5
 
 *Tuto inspired from YT YoandevCo [here](https://youtu.be/7LxlFzLx-9A)*.
 
-Link to the App [here](https://covid-france-chart.herokuapp.com/ "Covid France Chart")
+Link to the App host on Heroku: [https://covid-france-chart.herokuapp.com/](https://covid-france-chart.herokuapp.com/ "Covid France Chart")
 
 Use Symfony HTTP Request to display France COVID statistics and charts with ChartJS.
 
