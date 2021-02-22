@@ -39,5 +39,5 @@ heroku buildpacks:set heroku/php -a covid-france-chart
 heroku buildpacks:add --index 2 heroku/nodejs -a covid-france-chart
 
 cd ..
-git subtree push --prefix ./covid heroku main
+git subtree push --prefix covid heroku main
 ```
